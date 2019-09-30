@@ -2,3 +2,5 @@ node_modules/
 
 public/bundle.*
 public/styles.*
+
+package-lock.json
